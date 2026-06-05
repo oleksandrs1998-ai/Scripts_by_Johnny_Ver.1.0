@@ -64,7 +64,7 @@ button_generate.addEventListener("click", function () {
 `Hello, ${field1_customer_name.value},
 it's Johnny with the Safety Department.
 
-${field1_customer_name.value}, I just wanted to inform you that dispatch for your equipment will be put on hold starting in ${field2_days_left.value} due to the overdue inspection.
+${field1_customer_name.value}, I just wanted to inform you that dispatch for your equipment will be put on hold starting ${field2_days_left.value} due to the overdue inspection.
 
 Please complete the inspection for your own equipment at one of the approved shops: TA/Petro, Love’s/SpeedCo, Kram Tires, Goodyear, BOSS Shop, or one of our two shops.
 

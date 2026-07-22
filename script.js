@@ -89,10 +89,7 @@ to complete daily pre-trip inspections in the Motive application and upload the 
 
 This process helps us ensure proper equipment verification and compliance.
 
-After completing the truck inspection, please proceed with the trailer inspection 
-and make sure to select the trailer number from the list.
-
-Your trailer number is: ${field3_trailer_number.value}
+After completing the truck inspection, please proceed with the trailer inspection.
 
 Thank you, and I wish you a wonderful day!`
         pre_trip_general_box.checked=false;
